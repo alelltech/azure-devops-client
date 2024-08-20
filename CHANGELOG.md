@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.6](https://github.com/alelltech/azure-devops-client/compare/v2.2.8...v2.2.6) (2024-08-20)
+
+
+### Others
+
+* **release:** 2.2.8 ([1851d9b](https://github.com/alelltech/azure-devops-client/commit/1851d9b8b9b750651e3ce15eef114993b7eddfc6))
+
 ### [2.2.8](https://github.com/alelltech/azure-devops-client/compare/v2.2.7...v2.2.8) (2024-08-20)
 
 ### [2.2.7](https://github.com/alelltech/azure-devops-client/compare/v2.2.6...v2.2.7) (2024-08-20)
