@@ -1,6 +1,6 @@
 {
   "name": "@alell/azure-devops-client",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "author": "Alan S. Ferreira",
   "description": "Commons PAT based Client for Azure DevOps APIs",
   "license": "MIT",
